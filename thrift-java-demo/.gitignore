@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+maven-wrapper.*
+mvnw*
+hs_err*
+MavenWrapperDownloader.java

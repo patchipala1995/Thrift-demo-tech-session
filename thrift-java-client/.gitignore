@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+.mvn
+hs_err*
+*.log
+mvnw*
+*.jar
